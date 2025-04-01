@@ -1,5 +1,4 @@
 # SerolfloreS.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +6,7 @@
     <title>Personal Details</title>
     <style>
         body {
-            background-color: #f0f8ff; /* Light blue background */
+            background-color: Light green; /* Light blue background */
             font-family: Arial, sans-serif;
             color: #333; /* Dark text color for contrast */
         }
@@ -15,7 +14,7 @@
             text-align: center;
         }
         .button {
-            background-color: #4CAF50; /* Green background */
+            background-color: pink; /* Green background */
             border: none;
             color: white; /* White text */
             padding: 15px 32px; /* Padding for size */
