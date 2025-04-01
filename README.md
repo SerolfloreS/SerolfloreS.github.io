@@ -14,7 +14,7 @@
             background-color: orange; /* Light background for the entire page */
         }
         .section {
-            background-color: red; /* White background for sections */
+            background-color: pink; /* White background for sections */
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 20px;
@@ -34,7 +34,7 @@
             border-radius: 5px;
         }
         .button {
-            background-color: yellow; 
+            background-color: lightblue; 
             color: white; 
             padding: 10px 20px; 
             border: none; 
