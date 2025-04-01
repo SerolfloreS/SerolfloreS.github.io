@@ -11,7 +11,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: pink; /* Light background for the entire page */
+            background-color: orange; /* Light background for the entire page */
         }
         .section {
             background-color: red; /* White background for sections */
@@ -78,7 +78,7 @@
     </div>
 
     <div class="section">
-        <a href="https://visitcount.itsvg.in/api?id=SerolfloreS&icon=7&color=3">Visit Count</a>
+        <a href="https://visitaccount.itsvg.in/api?id=SerolfloreS&icon=7&color=3">Visit Count</a>
     </div>
 
 </body>
