@@ -54,7 +54,7 @@
     <div class="section">
         <h1>💫 About Me:</h1>
         <p>💙PORTFOLIO💙<br><br>Name: Serolf H. Flores<br>Age: 21<br>Birthday: July 18, 2003<br>Contact Number: 09512185146<br><br>Educational Background:<br><br>Graduated at Amaya elementary School (2008 - 2015)<br>Studied at Amaya School of Home industries whith the strand of Drafting Technology(2015-2019)<br>Graduated Senior HighSchool at Tanza National Comprehensive Highschool<br>Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>A Badminton Player in CvSU CCAT<br><br>5 Skills:<br><br>1. I do AutoCAD and I am a NC2 holder.<br>2. I do making posters or banners using Canva and Picsart.<br>3. Coding in My SQL Database is my skill and I'm trying my best to improve in this language.<br>4. Coding in XML is also my skill and I really enjoyed putting some attributes on it.<br>5. Last, I love playing guitar and I love songs.<br><br></p>
-        <a href="https://github.com/gab1211" class="button">View My GitHub</a>
+        <a href="https://github.com/SerolfloreS" class="button">View My GitHub</a>
     </div>
 
     <div class="section socials">
@@ -78,7 +78,7 @@
     </div>
 
     <div class="section">
-        <a href="https://visitaccount.itsvg.in/api?id=SerolfloreS&icon=7&color=3">Visit Count</a>
+        <a href="https://visitaccount.itsvg.in/api?id=https://github.com/SerolfloreS&icon=7&color=3">Visit Count</a>
     </div>
 
 </body>
