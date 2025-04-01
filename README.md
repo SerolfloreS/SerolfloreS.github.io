@@ -6,7 +6,7 @@
     <title>Personal Details</title>
     <style>
         body {
-            background-color: light yellow; /* Light blue background */
+            background-color: yellow; /* Light blue background */
             font-family: Arial, sans-serif;
             color: Brown; /* Dark text color for contrast */
         }
