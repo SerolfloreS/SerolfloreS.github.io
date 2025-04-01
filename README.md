@@ -63,7 +63,6 @@
         <a href="https://instagram.com/seroplanongpapel">Instagram</a> |
         <a href="https://tiktok.com/@srlf_flrsheesh">TikTok</a> |
        
-        <a href="https://youtube.com/@IsiahGabrielleBatul">YouTube</a> |
         <a href="mailto:serolfhazflores@gmail.com">Email</a>
         <a href="https://www.linkedin.com/in/serolf-flores" class="button">Connect on LinkedIn</a>
     </div>
@@ -72,14 +71,6 @@
         <h2>💻 Tech Stack:</h2>
         <p>HTML5, Adobe Lightroom, Adobe Lightroom Classic</p>
         <a href="https://www.codecademy.com/learn/learn-html" class="button">Learn HTML</a>
-    </div>
-
-    <div class="section">
-        <h2>📊 GitHub Stats:</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=SerolfloreS&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=SerolfloreS&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serolflores&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-    </div>
 
     <div class="section">
         <h2>🏆 GitHub Trophies</h2>
