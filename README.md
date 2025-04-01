@@ -6,9 +6,9 @@
     <title>Personal Details</title>
     <style>
         body {
-            background-color: Light green; /* Light blue background */
+            background-color: Yellow; /* Light blue background */
             font-family: Arial, sans-serif;
-            color: #333; /* Dark text color for contrast */
+            color: Brown; /* Dark text color for contrast */
         }
         h1, h3 {
             text-align: center;
@@ -27,7 +27,7 @@
             border-radius: 8px; /* Rounded corners */
         }
         .button:hover {
-            background-color: purple; /* Darker green on hover */
+            background-color: Pink; /* Darker green on hover */
         }
     </style>
 </head>
