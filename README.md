@@ -14,7 +14,7 @@
             text-align: center;
         }
         .button {
-            background-color: pink; /* Green background */
+            background-color: light green; /* Green background */
             border: none;
             color: white; /* White text */
             padding: 15px 32px; /* Padding for size */
@@ -27,7 +27,7 @@
             border-radius: 8px; /* Rounded corners */
         }
         .button:hover {
-            background-color: #45a049; /* Darker green on hover */
+            background-color: purple; /* Darker green on hover */
         }
     </style>
 </head>
