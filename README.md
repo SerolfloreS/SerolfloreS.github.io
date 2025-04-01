@@ -6,7 +6,7 @@
     <title>Personal Details</title>
     <style>
         body {
-            background-color: Yellow; /* Light blue background */
+            background-color: Yellow green; /* Light blue background */
             font-family: Arial, sans-serif;
             color: Brown; /* Dark text color for contrast */
         }
@@ -14,9 +14,9 @@
             text-align: center;
         }
         .button {
-            background-color: light green; /* Green background */
+            background-color: Green; /* Green background */
             border: none;
-            color: white; /* White text */
+            color: brown; /* White text */
             padding: 15px 32px; /* Padding for size */
             text-align: center;
             text-decoration: none; /* No underline */
