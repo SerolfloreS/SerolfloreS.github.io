@@ -115,39 +115,37 @@
 <body>
 
         <h1>💫 About Me:</h1>
-        <p>💙PORTFOLIO💙</p><br>Name: Isiah Gabrielle Batul</br>Age: 21
-        <br>Birthday: December 11, 2003
-        <br>Contact Number: 09703023937</br>
-        <br>💙EDUCATIONAL BACKGROUND💙</br>
-            <p>Graduated at Santol Elementary School (2008-2025)<br>
-                Member of Power It Up Glee Club (2017-2018)<br>
-                Member of Power It Up Glee Club (2018-2019)<br>
-                Graduated at Tanza National Comprehensive High School (2021-2022)<br>
-                Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
-                Tenor 1 Member at CVSU CCAT Chorale (2023-2025)</br></p>
-        <br>💙SKILLS💙</br>
-            <p>1. Being generous can strengthen relationships to others.<br>
-               2. Visionary that can be good to develop another things.<br>
-               3. Being creative in any work that helps to explore more ideas.<br>
-               4. Being helpful is one of my skills so that I can work with other people 
-                  and make their work more better.<br>
+        <p>PORTFOLIO</p><br>Name: Serolf H. Flores</br>Age: 21
+        <br>Birthday:July 18, 2003
+        <br>Contact Number: 09512185146</br>
+        <br>EDUCATIONAL BACKGROUND</br>
+            <p>Graduated at Amaya Elementary School (2008-2014)<br>
                
-               5. Planning is also my skills to gain an efficiency and decision making.</p></br>
+                Graduated at Amaya School of Home Industries (2015-2019)<br>
+                Graduated at Tanza National Comprehensive High School (2019-2021)<br>
+                Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
+                Captainball of Badminton Men Varsity (2023-2025)</br></p>    
+        <br>SKILLS</br>
+            <p>1. Cooperative in every aspect.<br>
+               2. Approachable and good at socializing.<br>
+               3. Obedient and with integrity.<br>
+               4. Hardworking and patient.<br>
+               
+               5. Good at designing and coloring either physical or digital.</p></br>
 
-        <a href="https://github.com/gab1211" class="button">View My GitHub</a>
+        <a href="https://github.com/SerolfloreS" class="button">View My GitHub</a>
     </div>
 
     <div class="section socials">
         <h2>🌐 Socials:</h2>
-        <a href="https://facebook.com/IsiahGabrielleBatul">Facebook</a> |
-        <a href="https://instagram.com/igbb_1211">Instagram</a> |
+        <a href="https://facebook.com/https://www.facebook.com/share/1HxE8evGmj/">Facebook</a> |
+        <a href="https://instagram.com/seroplanongpapel">Instagram</a> |
         <a href="https://tiktok.com/@IsiahGabrielleBatul">TikTok</a> |
-        <a href="https://twitch.tv/IsiahGabrielleBatul">Twitch</a> |
-        <a href="https://youtube.com/@IsiahGabrielleBatul">YouTube</a> |
-        <a href="mailto">Email</a>
-        <a href="https://facebook.com/IsiahGabrielleBatul" class="button">Connect on Facebook</a>
-        <a href="https://instagram.com/igbb_1211" class="button">Connect on Instagram</a>
-        <a href="https://youtube.com/@IsiahGabrielleBatul" class="button">Connect on YouTube</a>
+        
+        <a href="serolfhazflores@gmail.com">Email</a>
+        <a href="https://facebook.com/https://www.facebook.com/share/1HxE8evGmj/" class="button">Connect on Facebook</a>
+        <a href="https://instagram.com/seroplanongpapel" class="button">Connect on Instagram</a>
+        
     </div>
 
     <div class="section tech-stack">
@@ -166,18 +164,18 @@
 
     <div class="section">
         <h2>📊 GitHub Stats:</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=gab1211&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=gab1211&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab1211&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=SerolfloreS&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=SerolfloreS&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerolfloreS&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </div>
 
     <div class="section">
         <h2>🏆 GitHub Trophies</h2>
-        <img src="https://github-profile-trophy.vercel.app/?username=gab1211&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+        <img src="https://github-profile-trophy.vercel.app/?username=SerolfloreS&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
     </div>
 
     <div class="section">
-        <a href="https://visitcount.itsvg.in/api?id=gab1211&icon=7&color=3">Visit Count</a>
+        <a href="https://visitcount.itsvg.in/api?id=SerolfloreS&icon=7&color=3">Visit Count</a>
     </div>
 
     <div class="dummy projects">
