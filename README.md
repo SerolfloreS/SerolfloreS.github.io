@@ -11,8 +11,13 @@
             background-image: url('background ero.png'); 
             background-size: cover; 
             background-position: center; 
-            color: white; 
+            color: white;
         }
+        h1, h2 {
+            text-align: center;
+            color: #db1111;
+        }
+        
         .section {
             background-color: rgba(255, 255, 255, 0.8); 
             border-radius: 8px;
