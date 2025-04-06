@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,7 +60,7 @@
     </style>
 
 </head>
-</body>
+<body>
      
 <html lang="en">
 <head>
@@ -125,16 +124,16 @@
                 Graduated at Tanza National Comprehensive High School (2019-2021)<br>
                 Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
                 Captainball of Badminton Men Varsity (2023-2025)</br></p>    
-        <br>SKILLS</br>
+        <br>SKILLS<br>
             <p>1. Cooperative in every aspect.<br>
                2. Approachable and good at socializing.<br>
                3. Obedient and with integrity.<br>
                4. Hardworking and patient.<br>
                
-               5. Good at designing and coloring either physical or digital.</p></br>
+               5. Good at designing and coloring either physical or digital.</p><br>
 
         <a href="https://github.com/SerolfloreS" class="button">View My GitHub</a>
-    </div>
+    <div>
 
     <div class="section socials">
         <h2>🌐 Socials:</h2>
