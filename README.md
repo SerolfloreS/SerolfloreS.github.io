@@ -11,14 +11,14 @@
             background-image: url('background-ero.png'); 
             background-size: cover; 
             background-position: center; 
-            color: white; 
+            color: rgb(194, 192, 67); 
         }
         h1, h2 {
             text-align: center;
-            color: #f0f0f0;
+            color: #db1111;
         }
         .section {
-            background-color: rgba(255, 255, 255, 0.9); 
+            background-color: rgba(59, 212, 161, 0.9); 
             border-radius: 8px;
             padding: 20px;
             margin: 20px auto;
@@ -30,7 +30,7 @@
             height: 150px;
             border-radius: 50%;
             overflow: hidden;
-            border: 3px solid #fff;
+            border: 3px solid #611e1e;
             margin: 0 auto;
         }
         .profile-picture img {
@@ -38,7 +38,7 @@
             height: auto;
         }
         .button {
-            background-color: #28a745; 
+            background-color: #218037; 
             color: white; 
             padding: 10px 20px; 
             border: none; 
