@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('240_F_790913778_Rjd5CpcclwBF1DBTLwWnvYTxxhrRsSUu.jpg'); 
+            background-image: url('bckgrnd.jpg'); 
             background-size: cover; 
             background-position: center; 
             color: white;
