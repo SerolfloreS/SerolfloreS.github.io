@@ -160,7 +160,7 @@
         <a href="https://www.w3schools.com/xml/" class="button">Learn XML</a>
         <a href="https://www.codecademy.com/learn/learn-the-command-line" class="button">Learn CMD</a>
         <A href="https://linuxjourney.com/" class="button">Learn Linux</A>
-    </div>
+    <div>
 
     <div class="section">
         <h2>📊 GitHub Stats:</h2>
