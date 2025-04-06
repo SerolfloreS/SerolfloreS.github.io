@@ -45,7 +45,7 @@
     </style>
 
     <div class="profile-picture">
-        <img src="eropic.jpg" alt="My Profile" class="profile-picture" width="100px" height="100px">
+        <img src="eropic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
     </div>
 
     <h1>My Profile</h1>
