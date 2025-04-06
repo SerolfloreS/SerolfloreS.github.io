@@ -5,40 +5,23 @@
     <title>My Profile</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('background-ero.png'); 
+            background-image: url('background ero.png'); 
             background-size: cover; 
             background-position: center; 
-            color: rgb(194, 192, 67); 
-        }
-        h1, h2 {
-            text-align: center;
-            color: #db1111;
+            color: white; 
         }
         .section {
-            background-color: rgba(59, 212, 161, 0.9); 
+            background-color: rgba(255, 255, 255, 0.8); 
             border-radius: 8px;
             padding: 20px;
-            margin: 20px auto;
-            max-width: 800px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-        }
-        .profile-picture {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            overflow: hidden;
-            border: 3px solid #611e1e;
-            margin: 0 auto;
-        }
-        .profile-picture img {
-            width: 100%;
-            height: auto;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         .button {
-            background-color: #218037; 
+            background-color: green; 
             color: white; 
             padding: 10px 20px; 
             border: none; 
@@ -47,62 +30,121 @@
             text-decoration: none; 
             display: inline-block; 
             margin-top: 10px; 
-            transition: background-color 0.3s;
         }
         .button:hover {
-            background-color: #218838; 
+            background-color: darkblue; 
         }
-        .socials, .tech-stack {
-            background-color: rgba(173, 189, 36, 0.8);
-            padding: 10px;
-            border-radius: 5px;
-            margin-top: 20px;
-        }
-        .dummy-projects img {
-            width: 100%;
-            height: auto;
-            border-radius: 5px;
-            margin: 10px 0;
+        .hidden {
+            display: none; 
         }
     </style>
-</head>
-<body>
 
     <div class="profile-picture">
-        <img src="eropic.jpg" alt="My Profile">
+        <img src="eropic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
     </div>
 
     <h1>My Profile</h1>
+    <style>
+        .profile-picture{
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 2px solid;
+        }
 
-    <div class="section">
-        <h2>💫 About Me:</h2>
-        <p>Name: Serolf H. Flores</p>
-        <p>Age: 21</p>
-        <p>Birthday: July 18, 2003</p>
-        <p>Contact Number: 09512185146</p>
-        <h3>EDUCATIONAL BACKGROUND</h3>
-        <p>Graduated from Amaya Elementary School (2008-2014)<br>
-           Graduated from Amaya School of Home Industries (2015-2019)<br>
-           Graduated from Tanza National Comprehensive High School (2019-2021)<br>
-           Currently studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
-           Captain of Badminton Men Varsity (2023-2025)</p>
-        <h3>SKILLS</h3>
-        <ul>
-            <li>Cooperative in every aspect.</li>
-            <li>Approachable and good at socializing.</li>
-            <li>Obedient and with integrity.</li>
-            <li>Hardworking and patient.</li>
-            <li>Good at designing and coloring either physical or digital.</li>
-        </ul>
+        .profile-picture img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+
+</head>
+<body>
+     
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: rgb(29, 28, 28); 
+        }
+        .section {
+            background-color: rgb(224, 127, 168); 
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: black; 
+        }
+        .socials {
+            background-color: rgb(173, 189, 36);
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .tech-stack {
+            background-color: rgb(82, 9, 82); 
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .button {
+            background-color: rgb(214, 101, 48); 
+            color: white; 
+            padding: 10px 20px; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            text-decoration: none; 
+            display: inline-block; 
+            margin-top: 10px; 
+        }
+        .button:hover {
+            background-color: rgb(221, 118, 33); 
+        }
+    </style>
+    
+</head>
+<body>
+
+        <h1>💫 About Me:</h1>
+        <p>PORTFOLIO</p><br>Name: Serolf H. Flores<br>Age: 21
+        <br>Birthday:July 18, 2003
+        <br>Contact Number: 09512185146<br>
+        <br>EDUCATIONAL BACKGROUND<br>
+            <p>Graduated at Amaya Elementary School (2008-2014)<br>
+               
+                Graduated at Amaya School of Home Industries (2015-2019)<br>
+                Graduated at Tanza National Comprehensive High School (2019-2021)<br>
+                Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
+                Captainball of Badminton Men Varsity (2023-2025)</br></p>    
+        <br>SKILLS<br>
+            <p>1. Cooperative in every aspect.<br>
+               2. Approachable and good at socializing.<br>
+               3. Obedient and with integrity.<br>
+               4. Hardworking and patient.<br>
+               
+               5. Good at designing and coloring either physical or digital.</p><br>
+
         <a href="https://github.com/SerolfloreS" class="button">View My GitHub</a>
-    </div>
+    <div>
 
     <div class="section socials">
         <h2>🌐 Socials:</h2>
         <a href="https://facebook.com/https://www.facebook.com/share/1HxE8evGmj/">Facebook</a> |
         <a href="https://instagram.com/seroplanongpapel">Instagram</a> |
         <a href="https://tiktok.com/@IsiahGabrielleBatul">TikTok</a> |
-        <a href="mailto:serolfhazflores@gmail.com">Email</a>
+        
+        <a href="serolfhazflores@gmail.com">Email</a>
+        <a href="https://facebook.com/https://www.facebook.com/share/1HxE8evGmj/" class="button">Connect on Facebook</a>
+        <a href="https://instagram.com/seroplanongpapel" class="button">Connect on Instagram</a>
+        
     </div>
 
     <div class="section tech-stack">
@@ -116,8 +158,8 @@
         <a href="https://www.w3schools.com/MySQL/default.asp" class="button">Learn MySQL Database</a>
         <a href="https://www.w3schools.com/xml/" class="button">Learn XML</a>
         <a href="https://www.codecademy.com/learn/learn-the-command-line" class="button">Learn CMD</a>
-        <a href="https://linuxjourney.com/" class="button">Learn Linux</a>
-    </div>
+        <A href="https://linuxjourney.com/" class="button">Learn Linux</A>
+    <div>
 
     <div class="section">
         <h2>📊 GitHub Stats:</h2>
@@ -135,18 +177,16 @@
         <a href="https://visitcount.itsvg.in/api?id=SerolfloreS&icon=7&color=3">Visit Count</a>
     </div>
 
-    <div class="section dummy-projects">
+    <div class="dummy projects">
         <h2>Dummy Projects</h2>
-        <ul>
-            <li>Turbo C++</li>
-            <img src="turbo-cpp.jpg" alt="Turbo C++">
-            <li>Python</li>
-            <img src="python.jpg" alt="Python">
-            <li>Java</li>
-            <img src="java.jpg" alt="Java">
-            <li>HTML</li>
-            <img src="html.jpg" alt="HTML">
-        </ul>
+        <ul>Turbo C++</ul>
+        <img src="turbo-cpp.jpg" alt="Turbo C++" class="turbo cpp" width="1000px" height="500px">
+        <ul>Python</ul>
+        <img src="python.jpg" alt="Python" class="python" width="1000px" height="500px">
+        <ul>Java</ul>
+        <img src="java.jpg" alt="Java" class="java" width="1000px" height="500px">
+        <ul>HTML</ul>
+        <img src="html.jpg" alt="HTML" class="html" width="1000px" height="500px">
     </div>
 
 </body>
