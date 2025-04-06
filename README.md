@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('beautiful-nature.jpg'); 
+            background-image: url('background ero.png'); 
             background-size: cover; 
             background-position: center; 
             color: white; 
@@ -41,7 +41,7 @@
     </style>
 
     <div class="profile-picture">
-        <img src="mypic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
+        <img src="eropic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
     </div>
 
     <h1>My Profile</h1>
