@@ -115,10 +115,10 @@
 <body>
 
         <h1>💫 About Me:</h1>
-        <p>PORTFOLIO</p><br>Name: Serolf H. Flores</br>Age: 21
+        <p>PORTFOLIO</p><br>Name: Serolf H. Flores<br>Age: 21
         <br>Birthday:July 18, 2003
-        <br>Contact Number: 09512185146</br>
-        <br>EDUCATIONAL BACKGROUND</br>
+        <br>Contact Number: 09512185146<br>
+        <br>EDUCATIONAL BACKGROUND<br>
             <p>Graduated at Amaya Elementary School (2008-2014)<br>
                
                 Graduated at Amaya School of Home Industries (2015-2019)<br>
