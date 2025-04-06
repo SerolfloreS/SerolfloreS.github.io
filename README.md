@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('background ero.png'); 
+            background-image: url('sung-jin-woo-solo-leveling-arise-188@5@d-thumb.jpg'); 
             background-size: cover; 
             background-position: center; 
             color: white;
