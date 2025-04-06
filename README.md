@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Profile</title>
+    <title>My Profile:</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -40,7 +40,7 @@
     </style>
 
     <div class="profile-picture">
-        <img src="eropic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
+        <img src="eropic.jpg" alt="My Profile" class="profile-picture" width="100px" height="100px">
     </div>
 
     <h1>My Profile</h1>
@@ -85,7 +85,7 @@
             color: black; 
         }
         .socials {
-            background-color: rgb(173, 189, 36);
+            background-color: rgb(255, 6, 6);
             padding: 10px;
             border-radius: 5px;
         }
