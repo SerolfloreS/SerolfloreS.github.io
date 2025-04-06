@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('bckgrnd.jpg'); 
+            background-image: url('background ero.png'); 
             background-size: cover; 
             background-position: center; 
             color: white;
